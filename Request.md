@@ -1,4 +1,4 @@
 #Request
 **Requesting is currently unavailble**<br />
-We aim to have it out `September 1st` thanks for trying though!<br />
+We aim to have it out `September 1st 2019` thanks for trying though!<br />
 **[Back](https://dynocc.tk/)** 
