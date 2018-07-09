@@ -1,3 +1,8 @@
+---
+canonical_url: https://dynocc.xyz/CreateOwn
+amplink: https://dynocc.xyz/amp/CreateOwn
+---
+
 # Create Your Own Command
 You can create a command using Dyno's many variables. Below, you can see many resources for creating a new command, including the list of all the variables.
 
@@ -14,4 +19,4 @@ Once you create a cool Custom Command, you can submit it to DCC by following the
 5. Go through the steps to create a pull request.
 
 Watch the gif below!
-![GIF](https://advaith.owns-this.space/j3ecpf.gif)
+![GIF](https://magic.school-b.us/463828651016978442.gif)

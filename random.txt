@@ -1,2 +1,0 @@
-{choose: https://dynocc.tk/files/alone.png; https://dynocc.tk/files/dcc-trans.png; https://dynocc.tk/files/pending.png; https://dynocc.tk/files/wumpus.PNG; https://dynocc.tk/files/z_Dyno_CC.png}
-{choice}

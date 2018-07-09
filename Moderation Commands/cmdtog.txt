@@ -1,0 +1,4 @@
+{require:serverAdmin}
+{delete}
+{silent}
+{!ignoreuser $1}
