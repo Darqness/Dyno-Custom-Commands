@@ -11,7 +11,7 @@ Main Helpers: [@QuinnTDIP](https://github.com/quinntdip), and [@RenderedPix](htt
 
 Repo Maintainers: [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy)
 
-Helpers: [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner)
+Helpers: [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), [@Redstonedesiginer](https://github.com/redstonedesigner), and [@Darqness](https://github.com/Darqness)
 
 Mods: WHASonYT#0735, and FILLER TEXT
 
